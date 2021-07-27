@@ -1,3 +1,4 @@
+import random
 def my_hang():
     my_list=["py","java","css","html","edu"]
     words=random.choice(my_list)
